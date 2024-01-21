@@ -1,57 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<device
-    name="Android">
-    <item
-        name="none">0</item>
-    <item
-        name="screen.on">52.13</item>
-    <item
-        name="screen.full">350.68</item>
-    <item
-        name="bluetooth.active">24.06</item>
-    <item
-        name="bluetooth.on">1.44</item>
-    <item
-        name="wifi.on">2.05</item>
-    <item
-        name="wifi.active">54.19</item>
-    <item
-        name="wifi.scan">18.65</item>
-    <item
-        name="audio">34.39</item>
-    <item
-        name="video">58.13</item>
-    <item
-        name="camera.flashlight">146.6</item>
-    <item
-        name="camera.avg">421.45</item>
-    <item
-        name="gps.on">31.97</item>
-    <item
-        name="cpu.active">8.67</item>
-    <item
-        name="radio.active">210.94</item>
-    <item
-        name="radio.scanning">40.76</item>
-    <array
-        name="radio.on">
+<device name="Android">
+    <item name="none">0</item>
+    <item name="screen.on">52.13</item>
+    <item name="screen.full">350.68</item>
+    <item name="bluetooth.active">24.06</item>
+    <item name="bluetooth.on">1.44</item>
+    <item name="wifi.on">2.05</item>
+    <item name="wifi.active">54.19</item>
+    <item name="wifi.scan">18.65</item>
+    <item name="audio">34.39</item>
+    <item name="video">58.13</item>
+    <item name="camera.flashlight">146.6</item>
+    <item name="camera.avg">421.45</item>
+    <item name="gps.on">31.97</item>
+    <item name="cpu.active">8.67</item>
+    <item name="radio.active">210.94</item>
+    <item name="radio.scanning">40.76</item>
+    <array name="radio.on">
         <value>5.18</value>
     </array>
-    <item
-        name="modem.controller.idle">0</item>
-    <item
-        name="modem.controller.rx">0</item>
-    <item
-        name="modem.controller.tx">0</item>
-    <item
-        name="modem.controller.voltage">0</item>
-    <array
-        name="cpu.clusters.cores">
+    <item name="modem.controller.idle">0</item>
+    <item name="modem.controller.rx">0</item>
+    <item name="modem.controller.tx">0</item>
+    <item name="modem.controller.voltage">0</item>
+    <array name="cpu.clusters.cores">
         <value>6</value>
         <value>2</value>
     </array>
-    <array
-        name="cpu.core_speeds.cluster0">
+    <array name="cpu.core_speeds.cluster0">
         <value>1800000</value>
         <value>1625000</value>
         <value>1500000</value>
@@ -69,8 +45,7 @@
         <value>774000</value>
         <value>500000</value>
     </array>
-    <array
-        name="cpu.core_power.cluster0">
+    <array name="cpu.core_power.cluster0">
         <value>97.05</value>
         <value>71.35</value>
         <value>60.6</value>
@@ -88,8 +63,7 @@
         <value>34.66</value>
         <value>31.85</value>
     </array>
-    <array
-        name="cpu.core_speeds.cluster1">
+    <array name="cpu.core_speeds.cluster1">
         <value>2000000</value>
         <value>1950000</value>
         <value>1900000</value>
@@ -107,8 +81,7 @@
         <value>909000</value>
         <value>850000</value>
     </array>
-    <array
-        name="cpu.core_power.cluster1">
+    <array name="cpu.core_power.cluster1">
         <value>276.03</value>
         <value>260.4</value>
         <value>246.21</value>
@@ -126,26 +99,17 @@
         <value>71.34</value>
         <value>67.26</value>
     </array>
-    <item
-        name="cpu.idle">3.1</item>
-    <array
-        name="memory.bandwidths">
+    <item name="cpu.idle">3.1</item>
+    <array name="memory.bandwidths">
         <value>22.7</value>
     </array>
-    <item
-        name="battery.capacity">5000</item>
-    <item
-        name="wifi.controller.idle">0</item>
-    <item
-        name="wifi.controller.rx">0</item>
-    <item
-        name="wifi.controller.tx">0</item>
-    <array
-        name="wifi.controller.tx_levels" />
-    <item
-        name="wifi.controller.voltage">0</item>
-    <array
-        name="wifi.batchedscan">
+    <item name="battery.capacity">5000</item>
+    <item name="wifi.controller.idle">0</item>
+    <item name="wifi.controller.rx">0</item>
+    <item name="wifi.controller.tx">0</item>
+    <array name="wifi.controller.tx_levels" />
+    <item name="wifi.controller.voltage">0</item>
+    <array name="wifi.batchedscan">
         <value>.0002</value>
         <value>.002</value>
         <value>.02</value>
