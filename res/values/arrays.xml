@@ -367,5 +367,4 @@
     <integer-array name="config_screenDarkeningThresholds">
         <item>0</item>
     </integer-array>
-    <array name="config_screenThresholdLevels" />
 </resources>
